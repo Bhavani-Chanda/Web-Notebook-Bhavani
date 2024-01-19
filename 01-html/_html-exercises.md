@@ -5,7 +5,7 @@
 - [Exercise 03 - Table](#ex03)
 - [Exercise 04 - Form](#ex04)
 
-## <a id="ex01"></a> Exercise 01 - Lists
+## <a id="ex01"></a> Exercise 01 - Lists of names
 
 Recreate the snapshot below, using ordered and unordered lists and an anchor element for navigation.
 
