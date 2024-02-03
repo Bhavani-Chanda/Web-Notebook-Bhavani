@@ -25,3 +25,16 @@
   
 4. Were there other exercises that might have helped you learn this week’s topic a little better?
 - The class lecture is really helpful to understand this week concepts.
+
+### CSS
+1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+- I watched lecture and solutions video to complete this exercise.
+  
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+- These exercises are really helpful because I got to know so many things about CSS. Mainly the last exercise was really useful, I learned that we can change alignment of the elements using CSS and make pages responsive. 
+  
+3. Was there something that you wish had been explained better?
+- No, everything is great.
+  
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+- The class lecture and solution videos are really helpful to understand this week concepts.
