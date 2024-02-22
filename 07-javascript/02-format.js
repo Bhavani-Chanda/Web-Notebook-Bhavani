@@ -3,8 +3,12 @@ const formatItems = (input) => {
 
   // for reference, see the MDN Number page:
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
-
-  return input;
+  let outputArr = [];
+  for (let i of input) {
+    // console.log(i.toFixed(3));
+    outputArr.push(i.toFixed(3));
+  }
+  return outputArr.join(", ");
 };
 
 console.log(formatItems([1, 4, 17, 26, 41]));
