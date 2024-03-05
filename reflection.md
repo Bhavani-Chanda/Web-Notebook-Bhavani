@@ -143,3 +143,21 @@
 4. Were there other exercises that might have helped you learn this week’s topic a little better?
 
 - The class lecture and solution videos are really helpful to understand this week concepts.
+
+### JavaScript(07)
+
+1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
+
+- I watched lecture video to complete this exercise and watched solution videos to check logic for reduce method.
+
+2. How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+
+- This exercise is really helpful because I got to know about javascript. It was interesting to use map method which I know earlier but now I tried extra features of it.
+
+3. Was there something that you wish had been explained better?
+
+- No, everything is great.
+
+4. Were there other exercises that might have helped you learn this week’s topic a little better?
+
+- The class lecture and solution videos are really helpful to understand this week concepts.
